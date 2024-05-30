@@ -58,7 +58,7 @@ It will delete the task.
 
 
 ## SetUp/Installation
- Clone the repository using `git clone https://github.com/sridhar-geek/booksAPI ` 
+ Clone the repository using `git clone https://github.com/sridhar-geek/NodeTaskManager.git` 
  and install dependencies using `npm install` command
 
 Create .env file and updates this varaibles with your own connection string.  It is optional.
