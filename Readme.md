@@ -9,7 +9,7 @@
 To test the api routes in Postman, use can use this endpoints
 
 ```sh
-Base Url: https://books-api-chi.vercel.app/api/books
+Base Url: https://node-task-manager-khaki.vercel.app/api/tasks
 ```
 
 **For all requests set the Content-Type in header as application/json and send data in json format**
@@ -20,7 +20,7 @@ Base Url: https://books-api-chi.vercel.app/api/books
 
  Method: **GET**
 
- Route:  https://books-api-chi.vercel.app/api/books
+ Route:  https://node-task-manager-khaki.vercel.app/api/tasks
 
 It will fetches all the tasks.
 
@@ -28,7 +28,7 @@ It will fetches all the tasks.
 
 Method: **POST**
 
- Route: https://books-api-chi.vercel.app/api/books
+ Route: https://node-task-manager-khaki.vercel.app/api/tasks
 
 It will add new task to the task manager.
 
@@ -40,7 +40,7 @@ example data {
 
 Method: **PUT**
 
- Route:  https://books-api-chi.vercel.app/api/books/:id
+ Route: https://node-task-manager-khaki.vercel.app/api/tasks/:id
 
 It will update the whole task.
 
@@ -52,7 +52,7 @@ example data {
 
 Method: **DELETE**
 
- Route:  https://books-api-chi.vercel.app/api/books/:id
+ Route:  https://node-task-manager-khaki.vercel.app/api/tasks/:id
 
 It will delete the task.
 
